@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "ios-framework-example",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ertasahmet/ios-framework-example.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3bfbb5fe27fb38632175dff34351d304097388e4"
+      }
+    }
+  ],
+  "version" : 2
+}
